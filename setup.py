@@ -1,3 +1,11 @@
+# # # # #
+# Project: Backfill
+# File: setup.py
+# Created by: Nathan Healea
+# Description:
+#   Setup file for Backfill project
+# # # # #
+
 from distutils.core import setup
 
 setup(name='Backfill',
